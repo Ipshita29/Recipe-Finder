@@ -21,9 +21,5 @@ This project helps users find recipes by ingredients or dish name and view detai
 
 ---
 
-## 🛠️ Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/YourUsername/recipe-finder.git
 
